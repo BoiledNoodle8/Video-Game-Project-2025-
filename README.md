@@ -1,7 +1,7 @@
 # Video-Game-Project-2025-
 Final Game Project for Video Game Programming 
 
-#Tank Game
+# Tank Game
 
 ### Mechanics (What players interact with)
 
